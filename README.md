@@ -1,7 +1,5 @@
 # Diagrames de Venn · serveis de vídeo a demanda
 
-Solapament de subscripcions entre 849 usuaris actuals.
-
 ## 2 conjunts · Amazon Prime Video i Netflix
 
 ![Diagrama de Venn de 2 conjunts](venn-2.svg)
